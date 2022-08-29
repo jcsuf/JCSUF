@@ -6,6 +6,10 @@
 	--container-brightness: 20;
 }
 
+:root[theme="bing"]{
+	--container-brightness: 255;
+}
+
 .maintitle{
 	background-color: rgba(236, 146, 149, 1);
 	border-radius: 18px;
